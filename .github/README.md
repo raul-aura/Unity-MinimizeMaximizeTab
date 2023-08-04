@@ -1,6 +1,8 @@
 # Unity Minimaze/Maximize Tab
 The Minimize/Maximize Tab script allows you to create a toggleable behavior for GUI objects that use the Canvas Group component. This script enables you to create collapsible panels, images, or any other GUI element that you want to hide or show with a smooth animation.
 
+![Screenshot](unitytabpreview.gif)
+
 ## 🛠️ HOW TO INSTALL
 
 - Install and import the [`MinimizeMaximizeTab.unitypackage`](MinimizeMaximizeTab.unitypackage).
