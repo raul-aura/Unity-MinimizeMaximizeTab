@@ -5,7 +5,7 @@ The Minimize/Maximize Tab script allows you to create a toggleable behavior for 
 
 ## 🛠️ HOW TO INSTALL
 
-- Install and import the [`MinimizeMaximizeTab.unitypackage`](MinimizeMaximizeTab.unitypackage).
+- Install and import the [`MinimizeMaximizeTab.unitypackage`](../MinimizeMaximizeTab.unitypackage).
 - Move the "MinimizeTab.cs" script inside your Unity project.
 - Adjust to your liking and you're done!
 
